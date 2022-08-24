@@ -1,0 +1,23 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\LiptonLeon\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\LiptonLeon\git\unreal-pong).
+  Building PongEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Pong unity file: Pong.cpp, PongGameModeBase.cpp, PongPlayer.cpp
+  Determining max actions to execute in parallel (4 physical cores, 4 logical cores)
+    Executing up to 4 processes, one per physical core
+    Requested 1,5 GB free memory per action, 1,83 GB available: limiting max parallel actions to 1
+  Building 9 actions with 1 process...
+  [1/9] Compile PongPlayer.cpp
+  [2/9] Compile Pong.cpp
+  [3/9] Compile PongGameModeBase.cpp
+  [4/9] Compile PongGameModeBase.gen.cpp
+  [5/9] Compile PongPlayer.gen.cpp
+  [6/9] Compile Pong.init.gen.cpp
+  [7/9] Link UnrealEditor-Pong.lib
+     Trwa tworzenie biblioteki C:\Users\LiptonLeon\git\unreal-pong\Pong\Intermediate\Build\Win64\UnrealEditor\Development\Pong\UnrealEditor-Pong.lib i obiektu C:\Users\LiptonLeon\git\unreal-pong\Pong\Intermediate\Build\Win64\UnrealEditor\Development\Pong\UnrealEditor-Pong.exp
+  [8/9] Link UnrealEditor-Pong.dll
+     Trwa tworzenie biblioteki C:\Users\LiptonLeon\git\unreal-pong\Pong\Intermediate\Build\Win64\UnrealEditor\Development\Pong\UnrealEditor-Pong.suppressed.lib i obiektu C:\Users\LiptonLeon\git\unreal-pong\Pong\Intermediate\Build\Win64\UnrealEditor\Development\Pong\UnrealEditor-Pong.suppressed.exp
+  [9/9] WriteMetadata PongEditor.target
+  Total time in Parallel executor: 41,65 seconds
+  Total execution time: 47,35 seconds
