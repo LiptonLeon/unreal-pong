@@ -1472,3 +1472,490 @@ Script Stack (0 frames):
 [2022.08.28-18.58.55:401][333]LogStats:                    SendNewReport -  2.015 s
 [2022.08.28-18.58.55:401][333]LogStats:             FDebug::EnsureFailed -  3.917 s
 [2022.08.28-18.59.01:620][371]LogDerivedDataCache: C:/Users/LiptonLeon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.041 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.28-18.59.57:669][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.28-19.00.01:252][257]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.28-19.00.05:192][482]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2022.08.28-19.00.05:194][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.00.05:206][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.00.05:217][482]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.08.28-19.00.06:564][482]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.00.06:566][482]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.00.06:792][482]LogSlate: Took 0.000813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.28-19.00.06:802][482]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.08.28-19.00.12:676][784]LogSlate: Took 0.005339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.28-19.00.38:243][ 78]LogEditorTransaction: Undo Duplicate selection
+[2022.08.28-19.04.09:950][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainMenu" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset" SILENT=true
+[2022.08.28-19.04.09:964][407]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.010234 seconds
+[2022.08.28-19.04.10:028][407]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MainMenu
+[2022.08.28-19.04.10:029][407]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/BP_MainMenuDE126D334D4B00BAEF53FEAF05E4A6BB.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset'
+[2022.08.28-19.04.10:056][407]AssetCheck: New page: Asset Save: BP_MainMenu
+[2022.08.28-19.04.10:057][407]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2022.08.28-19.04.10:319][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainMenu" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset" SILENT=true
+[2022.08.28-19.04.10:362][410]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MainMenu
+[2022.08.28-19.04.10:362][410]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/BP_MainMenu26E528C14C1A8EDBB611C5894EABB8B2.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset'
+[2022.08.28-19.04.10:376][410]AssetCheck: New page: Asset Save: BP_MainMenu
+[2022.08.28-19.04.10:376][410]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2022.08.28-19.04.10:601][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainMenu" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset" SILENT=true
+[2022.08.28-19.04.10:639][418]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MainMenu
+[2022.08.28-19.04.10:640][418]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/BP_MainMenu9E9D4A734C1B156E20A3CB965044401E.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset'
+[2022.08.28-19.04.10:654][418]AssetCheck: New page: Asset Save: BP_MainMenu
+[2022.08.28-19.04.10:654][418]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2022.08.28-19.04.11:243][449]BlueprintLog: New page: Compile BP_MainMenu
+[2022.08.28-19.04.11:273][449]LogBlueprint: Error: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\Blueprints\BP_MainMenu.uasset: [Compiler] This blueprint (self) is not a GameUserSettings, therefore ' Target ' must have a connection.
+[2022.08.28-19.04.11:372][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.08.28-19.04.22:229][ 53]BlueprintLog: New page: Compile BP_MainMenu
+[2022.08.28-19.04.22:312][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.08.28-19.06.01:840][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainMenu" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset" SILENT=true
+[2022.08.28-19.06.01:883][710]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MainMenu
+[2022.08.28-19.06.01:883][710]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/BP_MainMenu4C4A963B4FA5D070A1F11B91722CB20E.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset'
+[2022.08.28-19.06.01:898][710]AssetCheck: New page: Asset Save: BP_MainMenu
+[2022.08.28-19.06.01:898][710]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2022.08.28-19.06.02:374][735]BlueprintLog: New page: Compile BP_MainMenu
+[2022.08.28-19.06.02:455][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.08.28-19.06.03:498][785]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.06.03:498][785]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.06.08:632][ 44]LogEditorTransaction: Undo Delete current selection
+[2022.08.28-19.06.14:288][341]BlueprintLog: New page: Compile BP_MainMenu
+[2022.08.28-19.06.14:368][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.08.28-19.06.15:291][384]LogSlate: Window 'BP_MainMenu' being destroyed
+[2022.08.28-19.06.15:322][384]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.06.15:322][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.06.15:332][384]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.06.15:333][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.06.16:134][418]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-19.06.16:157][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-19.06.16:157][418]PIE: New page: PIE session: MainMenu (28 sie 2022, 23:06:16)
+[2022.08.28-19.06.16:170][418]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.28-19.06.16:172][418]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.28-19.06.16:175][418]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.06.16:181][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006166s)
+[2022.08.28-19.06.16:181][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.006790s)
+[2022.08.28-19.06.16:181][418]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-19.06.16:182][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.06.16:183][418]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.28-19.06.16:183][418]LogPlayLevel: PIE: World Init took: (0.002185s)
+[2022.08.28-19.06.16:239][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.28-19.06.16:248][418]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.28-19.06.16:248][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-19.06.16:248][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-19.06.16:248][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-19.06.16:248][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-19.06.16:248][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-19.06.16:248][418]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-19.06.16:248][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-19.06.16:248][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-19.06.16:248][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-19.06.16:249][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-19.06.16:249][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-19.06.16:252][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-19.06.16:264][418]LogAudioMixer: Display: Using Audio Hardware Device Głośniki/Słuchawki (Realtek(R) Audio)
+[2022.08.28-19.06.16:264][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-19.06.16:264][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-19.06.16:264][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-19.06.16:265][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.28-19.06.16:265][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.28-19.06.16:267][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.28-19.06.16:267][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.28-19.06.16:267][418]LogInit: FAudioDevice initialized.
+[2022.08.28-19.06.16:267][418]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.08.28-19.06.16:289][418]LogLoad: Game class is 'BP_PongGamemode_C'
+[2022.08.28-19.06.16:290][418]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.06.16:290][418]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.06.16:290][418]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.08.28-21.06.16
+[2022.08.28-19.06.16:294][418]LogWorld: Bringing up level for play took: 0.004041
+[2022.08.28-19.06.16:296][418]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.08.28-19.06.16:371][418]PIE: Server logged in
+[2022.08.28-19.06.16:373][418]PIE: Play in editor total start time 0,23 seconds.
+[2022.08.28-19.06.22:961][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.06.22:968][770]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.06.23:011][770]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.06.23:011][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.06.23:025][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-19.06.23:034][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.06.23:062][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.06.23:081][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.28-19.06.23:083][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.28-19.06.23:133][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.08.28-19.06.23:322][771]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.08.28-19.06.26:623][952]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2022.08.28-19.06.26:623][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.06.26:631][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.06.27:322][952]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.06.27:323][952]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.06.31:024][133]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.08.28-19.06.31:039][133]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.08.28-19.06.41:392][693]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.06.41:392][693]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.07.32:486][348]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.07.32:486][348]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.08.56:103][927]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.08.56:103][927]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.10.44:442][648]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.10.44:442][648]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.12.11:020][147]BlueprintLog: New page: Compile BP_MainMenu
+[2022.08.28-19.12.11:152][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.08.28-19.12.11:680][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MainMenu" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset" SILENT=true
+[2022.08.28-19.12.11:730][165]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_MainMenu
+[2022.08.28-19.12.11:731][165]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/BP_MainMenuBA9CE8A44C1F41B8EBF4BBB549913815.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Blueprints/BP_MainMenu.uasset'
+[2022.08.28-19.12.11:747][165]AssetCheck: New page: Asset Save: BP_MainMenu
+[2022.08.28-19.12.11:748][165]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2022.08.28-19.12.12:236][191]LogSlate: Window 'BP_MainMenu' being destroyed
+[2022.08.28-19.12.12:253][191]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.12.12:253][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.12.12:266][191]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.12.12:267][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.12.13:801][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-19.12.13:808][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-19.12.13:808][270]PIE: New page: PIE session: MainMenu (28 sie 2022, 23:12:13)
+[2022.08.28-19.12.13:808][270]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.12.13:811][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002404s)
+[2022.08.28-19.12.13:811][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002495s)
+[2022.08.28-19.12.13:811][270]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-19.12.13:811][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.12.13:812][270]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.28-19.12.13:812][270]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2022.08.28-19.12.13:853][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.28-19.12.13:862][270]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.28-19.12.13:862][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-19.12.13:862][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-19.12.13:862][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-19.12.13:862][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-19.12.13:862][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-19.12.13:862][270]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-19.12.13:862][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-19.12.13:862][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-19.12.13:863][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-19.12.13:863][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-19.12.13:863][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-19.12.13:865][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-19.12.13:878][270]LogAudioMixer: Display: Using Audio Hardware Device Głośniki/Słuchawki (Realtek(R) Audio)
+[2022.08.28-19.12.13:879][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-19.12.13:879][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-19.12.13:879][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-19.12.13:879][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.08.28-19.12.13:879][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.08.28-19.12.13:881][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.08.28-19.12.13:881][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.08.28-19.12.13:881][270]LogInit: FAudioDevice initialized.
+[2022.08.28-19.12.13:881][270]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2022.08.28-19.12.13:893][270]LogLoad: Game class is 'BP_PongGamemode_C'
+[2022.08.28-19.12.13:894][270]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.12.13:894][270]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.12.13:894][270]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.08.28-21.12.13
+[2022.08.28-19.12.13:894][270]LogWorld: Bringing up level for play took: 0.001014
+[2022.08.28-19.12.13:896][270]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.08.28-19.12.13:899][270]PIE: Server logged in
+[2022.08.28-19.12.13:899][270]PIE: Play in editor total start time 0,091 seconds.
+[2022.08.28-19.12.20:793][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.12.20:793][657]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.12.20:794][657]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.12.20:794][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.12.20:805][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-19.12.20:810][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.12.20:836][657]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-19.12.20:836][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.28-19.12.20:838][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.28-19.12.20:841][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.12.20:851][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.08.28-19.12.20:932][658]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.08.28-19.12.22:562][733]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-08U5EFV
+[2022.08.28-19.12.22:563][733]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/LiptonLeon/git/unreal-pong/Pong/Pong.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/TurnkeyReport_1.log" -log="C:/Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/TurnkeyLog_1.log" -project="C:/Users/LiptonLeon/git/unreal-pong/Pong/Pong.uproject"  -Device=Win64@DESKTOP-08U5EFV'
+[2022.08.28-19.12.22:563][733]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/LiptonLeon/git/unreal-pong/Pong/Pong.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/TurnkeyReport_1.log" -log="C:/Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/TurnkeyLog_1.log" -project="C:/Users/LiptonLeon/git/unreal-pong/Pong/Pong.uproject"  -Device=Win64@DESKTOP-08U5EFV" -nocompile ]
+[2022.08.28-19.12.23:792][805]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.08.28-19.12.23:792][805]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-08U5EFV: (Name=DESKTOP-08U5EFV, Status=Valid, Installed=10.0.19043.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.08.28-19.12.26:501][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-19.12.26:501][963]PIE: New page: PIE session: MainMenu (28 sie 2022, 23:12:26)
+[2022.08.28-19.12.26:501][963]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.12.26:503][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001964s)
+[2022.08.28-19.12.26:503][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002031s)
+[2022.08.28-19.12.26:503][963]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-19.12.26:503][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.12.26:504][963]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.28-19.12.26:506][963]LogPlayLevel: PIE: World Init took: (0.002201s)
+[2022.08.28-19.12.26:533][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.28-19.12.26:534][963]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.08.28-19.12.26:534][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-19.12.26:534][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-19.12.26:534][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-19.12.26:534][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-19.12.26:534][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-19.12.26:534][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-19.12.26:534][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-19.12.26:534][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-19.12.26:534][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-19.12.26:534][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-19.12.26:534][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-19.12.26:536][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-19.12.26:548][963]LogAudioMixer: Display: Using Audio Hardware Device Głośniki/Słuchawki (Realtek(R) Audio)
+[2022.08.28-19.12.26:549][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-19.12.26:549][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-19.12.26:549][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-19.12.26:549][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.08.28-19.12.26:549][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.08.28-19.12.26:551][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.08.28-19.12.26:551][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.08.28-19.12.26:551][963]LogInit: FAudioDevice initialized.
+[2022.08.28-19.12.26:551][963]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2022.08.28-19.12.26:621][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.12.26:621][963]LogLoad: Game class is 'BP_PongGamemode_C'
+[2022.08.28-19.12.26:622][963]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.12.26:622][963]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.12.26:622][963]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.08.28-21.12.26
+[2022.08.28-19.12.26:623][963]LogWorld: Bringing up level for play took: 0.001445
+[2022.08.28-19.12.26:625][963]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.08.28-19.12.26:634][963]PIE: Server logged in
+[2022.08.28-19.12.26:635][963]PIE: Play in editor total start time 0,133 seconds.
+[2022.08.28-19.12.26:732][963]LogViewport: Scene viewport resized to 1347x980, mode Windowed.
+[2022.08.28-19.12.29:192][ 92]LogViewport: Scene viewport resized to 1920x1080, mode Fullscreen.
+[2022.08.28-19.12.29:217][ 92]LogViewport: Scene viewport resized to 1913x1030, mode Fullscreen.
+[2022.08.28-19.12.34:503][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.12.34:503][406]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.12.34:506][406]LogSlate: Window 'Pong Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.08.28-19.12.34:512][406]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.12.34:513][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.12.34:524][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-19.12.34:531][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.12.34:562][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-19.12.34:562][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.28-19.12.34:563][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.28-19.12.34:569][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.08.28-19.12.34:660][407]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.08.28-19.12.38:190][594]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-08U5EFV
+[2022.08.28-19.12.40:867][739]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-08U5EFV
+[2022.08.28-19.12.43:860][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.08.28-19.12.49:283][912]LogSlate: Window 'Save Content' being destroyed
+[2022.08.28-19.12.49:378][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Starter_Birds01" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/StarterContent/Audio/Starter_Birds01.uasset" SILENT=true
+[2022.08.28-19.12.49:381][912]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Starter_Birds01
+[2022.08.28-19.12.49:381][912]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/Starter_Birds01B3E9C1A7418BCD0DB60006AEB513135D.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/StarterContent/Audio/Starter_Birds01.uasset'
+[2022.08.28-19.12.49:393][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Starter_Wind05" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/StarterContent/Audio/Starter_Wind05.uasset" SILENT=true
+[2022.08.28-19.12.49:395][912]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Starter_Wind05
+[2022.08.28-19.12.49:396][912]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/Starter_Wind05AD4025744984BFF1FC917EB7202A8AFB.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/StarterContent/Audio/Starter_Wind05.uasset'
+[2022.08.28-19.12.49:408][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/Starter_Wind06" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/StarterContent/Audio/Starter_Wind06.uasset" SILENT=true
+[2022.08.28-19.12.49:411][912]LogSavePackage: Moving output files for package: /Game/StarterContent/Audio/Starter_Wind06
+[2022.08.28-19.12.49:412][912]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/Starter_Wind0643018290437D40D2FEB2548D54339773.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/StarterContent/Audio/Starter_Wind06.uasset'
+[2022.08.28-19.12.49:446][913]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.28-19.12.49:446][913]LogContentValidation: Display: Validating SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01
+[2022.08.28-19.12.49:446][913]LogContentValidation: Display: Validating SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05
+[2022.08.28-19.12.49:446][913]LogContentValidation: Display: Validating SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06
+[2022.08.28-19.13.30:851][505]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-08U5EFV
+[2022.08.28-19.13.31:777][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-19.13.31:777][559]PIE: New page: PIE session: MainMenu (28 sie 2022, 23:13:31)
+[2022.08.28-19.13.31:777][559]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.13.31:779][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002416s)
+[2022.08.28-19.13.31:779][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002503s)
+[2022.08.28-19.13.31:779][559]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-19.13.31:780][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.13.31:780][559]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.28-19.13.31:780][559]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2022.08.28-19.13.31:815][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.08.28-19.13.31:816][559]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.08.28-19.13.31:816][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-19.13.31:816][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-19.13.31:816][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-19.13.31:816][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-19.13.31:816][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-19.13.31:816][559]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-19.13.31:816][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-19.13.31:816][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-19.13.31:817][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-19.13.31:817][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-19.13.31:817][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-19.13.31:820][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-19.13.31:833][559]LogAudioMixer: Display: Using Audio Hardware Device Głośniki/Słuchawki (Realtek(R) Audio)
+[2022.08.28-19.13.31:834][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-19.13.31:834][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-19.13.31:834][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-19.13.31:834][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.08.28-19.13.31:835][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.08.28-19.13.31:836][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.08.28-19.13.31:837][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.08.28-19.13.31:837][559]LogInit: FAudioDevice initialized.
+[2022.08.28-19.13.31:837][559]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2022.08.28-19.13.31:851][559]LogLoad: Game class is 'BP_PongGamemode_C'
+[2022.08.28-19.13.31:852][559]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.13.31:852][559]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.13.31:852][559]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.08.28-21.13.31
+[2022.08.28-19.13.31:852][559]LogWorld: Bringing up level for play took: 0.001154
+[2022.08.28-19.13.31:854][559]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.08.28-19.13.31:857][559]PIE: Server logged in
+[2022.08.28-19.13.31:858][559]PIE: Play in editor total start time 0,081 seconds.
+[2022.08.28-19.13.35:183][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.13.35:183][750]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.13.35:183][750]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.13.35:183][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.13.35:194][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-19.13.35:198][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.13.35:222][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-19.13.35:222][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.28-19.13.35:224][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.28-19.13.35:228][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.13.35:230][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.08.28-19.13.35:290][751]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.08.28-19.13.37:549][861]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_MainMenu.BP_MainMenu
+[2022.08.28-19.13.37:549][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.13.37:559][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.13.38:095][861]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.13.38:096][861]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.28-19.13.44:764][210]LogSlate: Window 'BP_MainMenu' being destroyed
+[2022.08.28-19.13.44:791][210]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.13.44:792][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.13.44:801][210]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.13.44:801][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.13.52:408][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.28-19.13.52:410][643]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/MainMenu.MainMenu
+[2022.08.28-19.13.52:412][643]Cmd: MAP LOAD FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Level/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.28-19.13.52:413][643]LightingResults: New page: Lighting Build
+[2022.08.28-19.13.52:415][643]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.08.28-19.13.52:426][643]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.13.52:426][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.13.52:427][643]MapCheck: New page: Map Check
+[2022.08.28-19.13.52:427][643]LightingResults: New page: Lighting Build
+[2022.08.28-19.13.52:457][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-19.13.52:469][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.08.28-19.13.52:489][643]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.08.28-19.13.52:489][643]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-19.13.52:490][643]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.13.52:490][643]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.28-19.13.52:502][643]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.28-19.13.52:536][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.28-19.13.52:547][643]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.28-19.13.52:548][643]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,793ms to complete.
+[2022.08.28-19.13.52:548][643]LogFileHelpers: Loading map 'MainMenu' took 0.137
+[2022.08.28-19.13.54:867][770]LogSlate: Took 0.000736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.28-19.13.55:634][811]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.08.28-19.13.55:635][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.14.04:506][274]BlueprintLog: New page: Compile MainMenu
+[2022.08.28-19.14.04:573][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.08.28-19.14.05:154][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu" FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Level/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.08.28-19.14.05:186][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.08.28-19.14.05:201][298]LogSavePackage: Moving output files for package: /Game/Level/MainMenu
+[2022.08.28-19.14.05:201][298]LogSavePackage: Moving '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Saved/MainMenu299C9D5C4C94CDD5C46A4BB51D7C7454.tmp' to '../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Level/MainMenu.umap'
+[2022.08.28-19.14.05:221][298]LogFileHelpers: Saving map 'MainMenu' took 0.069
+[2022.08.28-19.14.05:237][298]AssetCheck: New page: Asset Save: MainMenu
+[2022.08.28-19.14.05:237][298]LogContentValidation: Display: Validating World /Game/Level/MainMenu.MainMenu
+[2022.08.28-19.14.05:710][326]LogSlate: Window 'MainMenu' being destroyed
+[2022.08.28-19.14.05:726][326]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.14.05:726][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.14.07:939][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.28-19.14.07:951][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-19.14.07:951][449]PIE: New page: PIE session: MainMenu (28 sie 2022, 23:14:07)
+[2022.08.28-19.14.07:951][449]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.14.07:953][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002181s)
+[2022.08.28-19.14.07:953][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002265s)
+[2022.08.28-19.14.07:953][449]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-19.14.07:953][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.14.07:954][449]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.28-19.14.07:954][449]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2022.08.28-19.14.07:985][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.08.28-19.14.07:994][449]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.08.28-19.14.07:994][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-19.14.07:994][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-19.14.07:994][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-19.14.07:994][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-19.14.07:994][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-19.14.07:994][449]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-19.14.07:994][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-19.14.07:994][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-19.14.07:994][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-19.14.07:994][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-19.14.07:994][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-19.14.07:996][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-19.14.08:009][449]LogAudioMixer: Display: Using Audio Hardware Device Głośniki/Słuchawki (Realtek(R) Audio)
+[2022.08.28-19.14.08:009][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-19.14.08:009][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-19.14.08:009][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-19.14.08:010][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.08.28-19.14.08:010][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.08.28-19.14.08:011][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.08.28-19.14.08:011][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.08.28-19.14.08:011][449]LogInit: FAudioDevice initialized.
+[2022.08.28-19.14.08:011][449]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2022.08.28-19.14.08:022][449]LogLoad: Game class is 'BP_PongGamemode_C'
+[2022.08.28-19.14.08:023][449]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.14.08:023][449]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.14.08:023][449]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.08.28-21.14.08
+[2022.08.28-19.14.08:023][449]LogWorld: Bringing up level for play took: 0.000799
+[2022.08.28-19.14.08:025][449]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.08.28-19.14.08:027][449]PIE: Server logged in
+[2022.08.28-19.14.08:028][449]PIE: Play in editor total start time 0,077 seconds.
+[2022.08.28-19.14.10:563][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.14.10:563][591]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.14.10:563][591]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.14.10:563][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.14.10:574][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-19.14.10:578][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.14.10:603][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-19.14.10:603][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.28-19.14.10:604][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.28-19.14.10:608][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.14.10:610][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.28-19.14.10:663][592]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.08.28-19.14.12:202][659]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-08U5EFV
+[2022.08.28-19.14.16:032][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.08.28-19.14.38:640][174]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-08U5EFV
+[2022.08.28-19.14.40:756][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.28-19.14.40:756][295]PIE: New page: PIE session: MainMenu (28 sie 2022, 23:14:40)
+[2022.08.28-19.14.40:757][295]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.14.40:759][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001973s)
+[2022.08.28-19.14.40:759][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu.MainMenu to /Game/Level/UEDPIE_0_MainMenu.MainMenu (0.002053s)
+[2022.08.28-19.14.40:759][295]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-19.14.40:759][295]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-19.14.40:759][295]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.28-19.14.40:759][295]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2022.08.28-19.14.40:791][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.08.28-19.14.40:792][295]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.08.28-19.14.40:792][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-19.14.40:792][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-19.14.40:792][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-19.14.40:792][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-19.14.40:792][295]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-19.14.40:792][295]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-19.14.40:792][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-19.14.40:792][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-19.14.40:793][295]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-19.14.40:793][295]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-19.14.40:793][295]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-19.14.40:795][295]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-19.14.40:807][295]LogAudioMixer: Display: Using Audio Hardware Device Głośniki/Słuchawki (Realtek(R) Audio)
+[2022.08.28-19.14.40:808][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-19.14.40:808][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-19.14.40:808][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-19.14.40:808][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.08.28-19.14.40:808][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.08.28-19.14.40:810][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.08.28-19.14.40:810][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.08.28-19.14.40:810][295]LogInit: FAudioDevice initialized.
+[2022.08.28-19.14.40:810][295]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2022.08.28-19.14.40:859][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.14.40:859][295]LogLoad: Game class is 'BP_PongGamemode_C'
+[2022.08.28-19.14.40:860][295]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.14.40:861][295]PIE: Warning: Invalid Simulate Options: Body (BP_Ball.StaticMesh SM_BallRounded) is set to simulate physics but Collision Enabled is incompatible
+[2022.08.28-19.14.40:861][295]LogWorld: Bringing World /Game/Level/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.08.28-21.14.40
+[2022.08.28-19.14.40:861][295]LogWorld: Bringing up level for play took: 0.001246
+[2022.08.28-19.14.40:863][295]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.08.28-19.14.40:870][295]PIE: Server logged in
+[2022.08.28-19.14.40:872][295]PIE: Play in editor total start time 0,116 seconds.
+[2022.08.28-19.14.40:953][295]LogViewport: Scene viewport resized to 1913x980, mode Windowed.
+[2022.08.28-19.14.43:581][442]LogViewport: Scene viewport resized to 1920x1080, mode Fullscreen.
+[2022.08.28-19.14.43:606][442]LogViewport: Scene viewport resized to 1913x1030, mode Fullscreen.
+[2022.08.28-19.14.45:014][520]LogViewport: Scene viewport resized to 1920x1080, mode Windowed.
+[2022.08.28-19.14.45:041][520]LogViewport: Scene viewport resized to 1913x1030, mode Windowed.
+[2022.08.28-19.14.45:830][566]LogViewport: Scene viewport resized to 1920x1080, mode Fullscreen.
+[2022.08.28-19.14.45:856][566]LogViewport: Scene viewport resized to 1913x1030, mode Fullscreen.
+[2022.08.28-19.14.47:363][655]LogViewport: Scene viewport resized to 1920x1080, mode Windowed.
+[2022.08.28-19.14.47:389][655]LogViewport: Scene viewport resized to 1913x1030, mode Windowed.
+[2022.08.28-19.14.50:262][780]LogViewport: Scene viewport resized to 1920x1080, mode Fullscreen.
+[2022.08.28-19.14.50:289][780]LogViewport: Scene viewport resized to 1913x1030, mode Fullscreen.
+[2022.08.28-19.14.53:828][991]LogViewport: Scene viewport resized to 1920x1080, mode Windowed.
+[2022.08.28-19.14.53:856][991]LogViewport: Scene viewport resized to 1913x1030, mode Windowed.
+[2022.08.28-19.14.59:072][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-19.14.59:073][257]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MainMenu
+[2022.08.28-19.14.59:073][257]LogSlate: Window 'Pong Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.08.28-19.14.59:112][257]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-19.14.59:113][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.14.59:124][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.28-19.14.59:131][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-19.14.59:164][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.28-19.14.59:165][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.28-19.14.59:171][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.08.28-19.14.59:247][258]LogPlayLevel: Display: Destroying online subsystem :Context_20
