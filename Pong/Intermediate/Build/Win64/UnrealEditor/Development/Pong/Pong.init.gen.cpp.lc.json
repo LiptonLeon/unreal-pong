@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\liptonleon\\git\\unreal-pong\\pong\\intermediate\\build\\win64\\unrealeditor\\inc\\pong\\pong.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\liptonleon\\git\\unreal-pong\\pong\\intermediate\\build\\win64\\pongeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\liptonleon\\git\\unreal-pong\\pong\\intermediate\\build\\win64\\unrealeditor\\development\\pong\\definitions.pong.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

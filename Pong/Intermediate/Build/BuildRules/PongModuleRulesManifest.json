@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\LiptonLeon\\git\\unreal-pong\\Pong\\Source\\Pong\\Pong.Build.cs",
+		"C:\\Users\\LiptonLeon\\git\\unreal-pong\\Pong\\Source\\Pong.Target.cs",
+		"C:\\Users\\LiptonLeon\\git\\unreal-pong\\Pong\\Source\\PongEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

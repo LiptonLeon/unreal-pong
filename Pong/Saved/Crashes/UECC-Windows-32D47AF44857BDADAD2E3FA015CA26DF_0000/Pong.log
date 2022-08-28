@@ -1,0 +1,1470 @@
+﻿Log file open, 08/28/22 20:56:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=6632)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pong
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\LiptonLeon\git\unreal-pong\Pong\Pong.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1949] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="fdbb65d64cef44cd4e05df9de263c1e0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.485423
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-32D47AF44857BDADAD2E3FA015CA26DF
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin IKRig
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1949] (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.28-18.56.58:399][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.28-18.56.58:399][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.28-18.56.58:399][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.28-18.56.58:399][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.28-18.56.58:400][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.08.28-18.56.58:400][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.08.28-18.56.58:400][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.08.28-18.56.58:400][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.08.28-18.56.58:400][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.08.28-18.56.58:401][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.28-18.56.58:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.28-18.56.58:402][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.28-18.56.58:402][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.28-18.56.58:403][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.28-18.56.58:413][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.28-18.56.58:413][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.28-18.56.58:413][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.28-18.56.58:413][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.28-18.56.58:413][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.28-18.56.58:413][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.28-18.56.58:413][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.28-18.56.58:413][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.28-18.56.58:414][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.28-18.56.58:414][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.28-18.56.58:414][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.28-18.56.58:482][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.28-18.56.58:482][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.28-18.56.58:815][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.28-18.56.58:816][  0]LogD3D12RHI: Adapter has 4019MB of dedicated video memory, 0MB of dedicated system memory, and 4026MB of shared system memory, 1 output[s]
+[2022.08.28-18.56.58:943][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.28-18.56.58:943][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 4026MB of shared system memory, 0 output[s]
+[2022.08.28-18.56.58:973][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.28-18.56.58:973][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4026MB of shared system memory, 0 output[s]
+[2022.08.28-18.56.58:974][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.28-18.56.58:975][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.28-18.56.58:976][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.28-18.56.58:978][  0]LogHAL: Display: Platform has ~ 8 GB [8443658240 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.28-18.56.58:979][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.28-18.56.58:979][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.28-18.56.58:979][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.28-18.56.58:980][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.28-18.56.58:980][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/LiptonLeon/git/unreal-pong/Pong/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.28-18.56.58:982][  0]LogInit: Computer: DESKTOP-08U5EFV
+[2022.08.28-18.56.58:982][  0]LogInit: User: LiptonLeon
+[2022.08.28-18.56.58:982][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.08.28-18.56.58:982][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.28-18.56.58:982][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.08.28-18.56.58:982][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.28-18.56.58:982][  0]LogMemory: Process Physical Memory: 272.19 MB used, 274.86 MB peak
+[2022.08.28-18.56.58:982][  0]LogMemory: Process Virtual Memory: 223.69 MB used, 223.69 MB peak
+[2022.08.28-18.56.58:982][  0]LogMemory: Physical Memory: 4563.16 MB used,  3489.34 MB free, 8052.50 MB total
+[2022.08.28-18.56.58:982][  0]LogMemory: Virtual Memory: 8235.06 MB used,  4123.52 MB free, 12358.59 MB total
+[2022.08.28-18.56.58:982][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.28-18.56.58:990][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.28-18.56.59:051][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.28-18.56.59:056][  0]LogInit: Using OS detected language (pl-PL).
+[2022.08.28-18.56.59:056][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.08.28-18.56.59:079][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so 'pl' will be used for the language.
+[2022.08.28-18.56.59:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2022.08.28-18.56.59:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2022.08.28-18.56.59:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2022.08.28-18.56.59:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2022.08.28-18.56.59:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2022.08.28-18.56.59:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2022.08.28-18.56.59:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2022.08.28-18.56.59:083][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.28-18.56.59:100][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.28-18.56.59:100][  0]LogWindowsTextInputMethodSystem:   - Polski (Polska) - (Keyboard).
+[2022.08.28-18.56.59:100][  0]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2022.08.28-18.56.59:136][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.28-18.56.59:136][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.28-18.56.59:391][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.28-18.56.59:394][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.28-18.56.59:394][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.28-18.56.59:467][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.28-18.56.59:467][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.28-18.56.59:468][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.28-18.56.59:510][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.28-18.56.59:516][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.28-18.56.59:525][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.28-18.56.59:543][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.28-18.56.59:543][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.28-18.56.59:588][  0]LogD3D12RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2022.08.28-18.56.59:588][  0]LogWindows: Attached monitors:
+[2022.08.28-18.56.59:588][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.28-18.56.59:588][  0]LogWindows: Found 1 attached monitors.
+[2022.08.28-18.56.59:588][  0]LogWindows: EnumDisplayDevices:
+[2022.08.28-18.56.59:588][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.28-18.56.59:588][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.08.28-18.56.59:589][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.28-18.56.59:589][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.28-18.56.59:589][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.08.28-18.56.59:589][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.08.28-18.56.59:589][  0]LogD3D12RHI:   Driver Version: 511.69 (internal:30.0.15.1169, unified:511.69)
+[2022.08.28-18.56.59:589][  0]LogD3D12RHI:      Driver Date: 2-1-2022
+[2022.08.28-18.56.59:589][  0]LogRHI: Texture pool is 2152 MB (70% of 3074 MB)
+[2022.08.28-18.56.59:589][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.28-18.56.59:589][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.28-18.56.59:631][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.28-18.57.00:948][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1050
+Installed: 511.69
+Recommended: 516.25
+[2022.08.28-18.57.00:969][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/LiptonLeon/git/unreal-pong/Pong/Pong.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/TurnkeyReport_0.log" -log="C:/Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/TurnkeyLog_0.log" -project="C:/Users/LiptonLeon/git/unreal-pong/Pong/Pong.uproject"  -platform=all'
+[2022.08.28-18.57.00:969][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/LiptonLeon/git/unreal-pong/Pong/Pong.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/TurnkeyReport_0.log" -log="C:/Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/TurnkeyLog_0.log" -project="C:/Users/LiptonLeon/git/unreal-pong/Pong/Pong.uproject"  -platform=all" ]
+[2022.08.28-18.57.01:017][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.28-18.57.01:040][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.28-18.57.01:040][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.28-18.57.01:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.28-18.57.01:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.28-18.57.01:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.28-18.57.01:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.28-18.57.01:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.28-18.57.01:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.28-18.57.01:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.28-18.57.01:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.28-18.57.01:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.28-18.57.01:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.28-18.57.01:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.28-18.57.01:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.28-18.57.01:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.28-18.57.01:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.28-18.57.01:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.28-18.57.01:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.28-18.57.01:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.28-18.57.01:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.28-18.57.01:122][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.28-18.57.01:139][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.28-18.57.01:151][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.28-18.57.01:151][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.28-18.57.01:151][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.28-18.57.01:151][  0]LogTargetPlatformManager:   PCM
+[2022.08.28-18.57.01:182][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.28-18.57.01:182][  0]LogTargetPlatformManager:   BINKA
+[2022.08.28-18.57.01:182][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.28-18.57.01:182][  0]LogTargetPlatformManager:   OGG
+[2022.08.28-18.57.01:182][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.28-18.57.01:182][  0]LogTargetPlatformManager:   OPUS
+[2022.08.28-18.57.01:310][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.28-18.57.01:324][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.28-18.57.01:334][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.28-18.57.01:334][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.28-18.57.01:334][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.28-18.57.01:334][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.28-18.57.01:334][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.28-18.57.01:334][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.28-18.57.01:334][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.28-18.57.01:334][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.28-18.57.01:339][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.28-18.57.01:340][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.28-18.57.01:340][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.28-18.57.01:340][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.28-18.57.01:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.28-18.57.01:347][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.28-18.57.01:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.28-18.57.01:347][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.28-18.57.01:372][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.28-18.57.01:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.28-18.57.01:373][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.28-18.57.01:390][  0]LogDerivedDataCache: Speed tests for C:/Users/LiptonLeon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.08.28-18.57.01:391][  0]LogDerivedDataCache: Display: Performance to C:/Users/LiptonLeon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=100.62MBs, RandomWriteSpeed=146.55MBs. Assigned SpeedClass 'Local'
+[2022.08.28-18.57.01:392][  0]LogDerivedDataCache: Using Local data cache path C:/Users/LiptonLeon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.28-18.57.01:392][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.28-18.57.01:392][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.28-18.57.01:400][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.28-18.57.01:400][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.28-18.57.01:410][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Intermediate/Shaders/WorkingDirectory/4912/).
+[2022.08.28-18.57.01:410][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/LiptonLeon/AppData/Local/Temp/UnrealShaderWorkingDir/5F8B6364499FED4CF8307C8DC361119D/'.
+[2022.08.28-18.57.01:411][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.28-18.57.01:411][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.08.28-18.57.03:062][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.28-18.57.03:062][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.28-18.57.03:065][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.28-18.57.03:144][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2022.08.28-18.57.03:153][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.28-18.57.03:498][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.28-18.57.03:505][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.28-18.57.03:836][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.28-18.57.03:836][  0]LogDeviceProfileManager: Active device profile: [0000045EC94FEA80][0000045EC0C52800 50] WindowsEditor
+[2022.08.28-18.57.03:836][  0]LogDeviceProfileManager: Profiles: [0000045EC94FE540][0000045EB3E10000 50] Windows, [0000045EC94FEA80][0000045EC0C52800 50] WindowsEditor, [0000045EC94FDAC0][0000045ECA9F0000 50] WindowsServer, [0000045EC94FA100][0000045ECA9F5000 50] WindowsClient, [0000045EC94FD900][0000045ECA9F7800 50] IOS, [0000045EC94FA2C0][0000045ECA9FA000 50] iPadAir2, [0000045EC94FA480][0000045EC0C57800 50] IPadPro, [0000045EC94FEE00][0000045ECA9FC800 50] iPadAir3, [0000045EC94FDE40][0000045ECAA00000 50] iPadAir4, [0000045EC94FA640][0000045ECAA05000 50] iPadMini4, [0000045EC94F9D80][0000045ECAA07800 50] iPadMini5, [0000045EC94FA800][0000045ECAA0A000 50] iPadMini6, [0000045ECAA916C0][0000045ECAA70000 50] iPhone6S, [0000045ECAA91A40][0000045ECAA72800 50] iPhone7, [0000045ECAA91DC0][0000045ECAA75000 50] iPodTouch7, [0000045ECAA92680][0000045ECAA7A000 50] iPhone6SPlus, [0000045ECAA924C0][0000045ECAA7C800 50] iPhone7Plus, [0000045ECAA92300][0000045ECA9F2800 50] iPhoneSE, [0000045ECAA92140][0000045ECAA0C800 50] iPhone8, [0000045ECAA92840][0000045ECAA77800 50] iPhone8Plus, [0000045ECAA90FC0][0000045ECAA50000 50] iPhoneX, [0000045ECAA90A80][0000045ECAA55000 50] iPhoneXS, [0000045ECAA92F40][0000045ECAA57800 50] iPhoneXSMax, [0000045ECAA93640][0000045ECAA5A000 50] iPhoneXR, [0000045ECAA932C0][0000045ECAA5C800 50] iPhone11, [0000045ECAA91500][0000045ECAA02800 50] iPhone11Pro, [0000045ECAA901C0][0000045ECAA60000 50] iPhone11ProMax, [0000045ECAA94280][0000045ECAA65000 50] iPhoneSE2, [0000045ECAA93D40][0000045ECAA67800 50] iPhone12Mini, [0000045ECAA91880][0000045ECAA6A000 50] iPhone12, [0000045ECAA94B40][0000045ECAA6C800 50] iPhone12Pro, [0000045ECAA90E00][0000045ECAA52800 50] iPhone12ProMax, [0000045ECAA91C00][0000045ECAA10000 50] iPhone13Mini, [0000045ECAA90000][0000045ECAA15000 50] iPhone13, [0000045ECAA91F80][0000045ECAA17800 50] iPhone13Pro, [0000045ECAA94EC0][0000045ECAA1A000 50] iPhone13ProMax, [0000045ECAA93480][0000045ECAA1C800 50] iPadPro105, [0000045ECAA95780][0000045ECAA62800 50] iPadPro129, [0000045ECAA90380][0000045ECAA20000 50] iPadPro97, [0000045ECAA94D00][0000045ECAA25000 50] iPadPro2_129, [0000045ECAA940C0][0000045ECAA27800 50] iPad5, [0000045ECAA93100][0000045ECAA2A000 50] iPad6, [0000045ECAA95080][0000045ECAA2C800 50] iPad7, [0000045ECAA94980][0000045ECAA12800 50] iPad8, [0000045ECAA94600][0000045ECAAA0000 50] iPad9, [0000045ECAA96040][0000045ECAAA5000 50] iPadPro11, [0000045ECAA92D80][0000045ECAAA7800 50] iPadPro2_11, [0000045ECAA96740][0000045ECAAAA000 50] iPadPro3_11, [0000045ECAA93800][0000045ECAAAC800 50] iPadPro3_129, [0000045ECAA947C0][0000045ECAA22800 50] iPadPro4_129, [0000045ECAA92BC0][0000045ECAAC0000 50] iPadPro5_129, [0000045ECAA955C0][0000045ECAAC5000 50] AppleTV, [0000045ECAA91340][0000045ECAAC7800 50] AppleTV4K, [0000045ECAA96580][0000045ECAACA000 50] TVOS, [0000045ECAA98DC0][0000045ECAAA2800 50] Mac, [0000045ECAA99140][0000045ECAACC800 50] MacEditor, [0000045ECAA963C0][0000045ECAAD0000 50] MacClient, [0000045ECAA98A40][0000045ECAAD5000 50] MacServer, [0000045ECAA98880][0000045ECAADA000 50] Linux, [0000045ECAA939C0][0000045ECAAD7800 50] LinuxEditor, [0000045ECAA97C40][0000045ECAADC800 50] LinuxArm64Editor, [0000045ECAA93F00][0000045ECAAC2800 50] LinuxArm64, [0000045ECAA92A00][0000045ECAAE0000 50] LinuxClient, [0000045ECAA96200][0000045ECAAE5000 50] LinuxArm64Client, [0000045ECAA98500][0000045ECAAE7800 50] LinuxServer, [0000045ECAA90700][0000045ECAAEA000 50] LinuxArm64Server, [0000045ECAA978C0][0000045ECAAEC800 50] Android, [0000045ECAA99840][0000045ECAAD2800 50] Android_Preview_OpenGL, [0000045ECAA97E00][0000045ECAAF0000 50] Android_Preview_Vulkan, [0000045ECAA91180][0000045ECAAF5000 50] Android_Low, [0000045ECAA97FC0][0000045ECAAF7800 50] Android_Mid, [0000045ECAA95940][0000045ECAAFA000 50] Android_High, [0000045ECAA90540][0000045ECAAFC800 50] Android_Default, [0000045ECAA96900][0000045ECAAE2800 50] Android_Adreno4xx, [0000045ECAA97380][0000045ECAB00000 50] Android_Adreno5xx_Low, [0000045ECAA93B80][0000045ECAB05000 50] Android_Adreno5xx, [0000045ECAA99A00][0000045ECAB07800 50] Android_Adreno6xx, [0000045ECAA95CC0][0000045ECAB0A000 50] Android_Adreno6xx_Vulkan, [0000045ECAA95B00][0000045ECAB0C800 50] Android_Adreno7xx, [0000045ECAA908C0][0000045ECAAF2800 50] Android_Adreno7xx_Vulkan, [0000045ECAA97540][0000045ECAB10000 50] Android_Mali_T6xx, [0000045ECAA96E40][0000045ECAB15000 50] Android_Mali_T7xx, [0000045ECAA99300][0000045ECAB17800 50] Android_Mali_T8xx, [0000045ECAA97700][0000045ECAB1A000 50] Android_Mali_G71, [0000045ECAA98F80][0000045ECAB1C800 50] Android_Mali_G72, [0000045ECAA9A480][0000045ECAB02800 50] Android_Mali_G72_Vulkan, [0000045ECAA9A2C0][0000045ECAAB0000 50] Android_Mali_G76, [0000045ECAA99F40][0000045ECAAB5000 50] Android_Mali_G76_Vulkan, [0000045ECAA994C0][0000045ECAAB7800 50] Android_Mali_G77, [0000045ECAA95400][0000045ECAABA000 50] Android_Mali_G77_Vulkan, [0000045ECAA99BC0][0000045ECAABC800 50] Android_Mali_G78, [0000045ECAA9A100][0000045ECAB12800 50] Android_Mali_G78_Vulkan, [0000045ECAA94440][0000045ECAB20000 50] Android_Mali_G710, [0000045ECAA97000][0000045ECAB25000 50] Android_Mali_G710_Vulkan, [0000045ECAA9B440][0000045ECAB27800 50] Android_Xclipse_920, [0000045ECAA9B280][0000045ECAB2A000 50] Android_Xclipse_920_Vulkan, [0000045ECAA9AF00][0000045ECAB2C800 50] Android_Vulkan_SM5, [0000045ECAA97A80][0000045ECAAB2800 50] Android_PowerVR_G6xxx, [0000045ECAA99680][0000045ECAB30000 50] Android_PowerVR_GT7xxx, [0000045ECAA99D80][0000045ECAB35000 50] Android_PowerVR_GE8xxx, [0000045ECAA9C780][0000045ECAB37800 50] Android_PowerVR_GM9xxx, [0000045ECAA95240][0000045ECAB3A000 50] Android_PowerVR_GM9xxx_Vulkan, [0000045ECAA9B980][0000045ECAB3C800 50] Android_TegraK1, [0000045ECAA9A9C0][0000045ECAB22800 50] Android_Unknown_Vulkan, [0000045ECAA9C240][0000045ECAB40000 50] Oculus_Quest, [0000045ECAA9C400][0000045ECAB45000 50] Oculus_Quest2, [0000045ECAA9A640][0000045ECAB47800 50] HoloLens, 
+[2022.08.28-18.57.03:836][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.28-18.57.03:846][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.08.28-18.57.03:846][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.17763.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.28-18.57.03:846][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.28-18.57.03:846][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.28-18.57.03:846][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.28-18.57.03:846][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.28-18.57.03:846][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.17763.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.28-18.57.03:899][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.28-18.57.04:204][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.28-18.57.04:204][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.28-18.57.04:204][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.28-18.57.04:204][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.28-18.57.04:204][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.28-18.57.04:250][  0]LogNetVersion: Pong 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1128856079)
+[2022.08.28-18.57.04:513][  0]LogSlate: Border
+[2022.08.28-18.57.04:513][  0]LogSlate: BreadcrumbButton
+[2022.08.28-18.57.04:513][  0]LogSlate: Default
+[2022.08.28-18.57.04:513][  0]LogSlate: Icons.Save
+[2022.08.28-18.57.04:513][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.28-18.57.04:513][  0]LogSlate: ListView
+[2022.08.28-18.57.04:513][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.28-18.57.04:513][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.28-18.57.04:513][  0]LogSlate: TableView.DarkRow
+[2022.08.28-18.57.04:513][  0]LogSlate: TableView.Row
+[2022.08.28-18.57.04:513][  0]LogSlate: TreeView
+[2022.08.28-18.57.05:066][  0]SourceControl: Source control is disabled
+[2022.08.28-18.57.05:125][  0]SourceControl: Source control is disabled
+[2022.08.28-18.57.05:125][  0]SourceControl: Source control is disabled
+[2022.08.28-18.57.05:311][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.28-18.57.05:311][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.08.28-18.57.05:311][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.28-18.57.06:434][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0D39F9A3419CF7E3CE56DEB379F8CC39 | Instance: 44FF7AA74E8445FA35E4948F3771D098 (DESKTOP-08U5EFV-4912).
+[2022.08.28-18.57.06:648][  0]LogPython: Using Python 3.9.7
+[2022.08.28-18.57.07:594][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.28-18.57.07:610][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.28-18.57.07:824][  0]SourceControl: Source control is disabled
+[2022.08.28-18.57.07:858][  0]SourceControl: Source control is disabled
+[2022.08.28-18.57.07:874][  0]SourceControl: Source control is disabled
+[2022.08.28-18.57.08:520][  0]LogUProjectInfo: Found projects:
+[2022.08.28-18.57.08:818][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.28-18.57.08:893][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.28-18.57.08:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.28-18.57.08:925][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.28-18.57.09:103][  0]LogCollectionManager: Loaded 0 collections in 0.004248 seconds
+[2022.08.28-18.57.09:287][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LiptonLeon/git/unreal-pong/Pong/Saved/Collections/' took 0.00s
+[2022.08.28-18.57.09:287][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LiptonLeon/git/unreal-pong/Pong/Content/Developers/LiptonLeon/Collections/' took 0.00s
+[2022.08.28-18.57.09:287][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LiptonLeon/git/unreal-pong/Pong/Content/Collections/' took 0.00s
+[2022.08.28-18.57.09:844][  0]LogEngine: Initializing Engine...
+[2022.08.28-18.57.09:864][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.28-18.57.09:868][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.08.28-18.57.10:184][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.28-18.57.10:187][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-18.57.10:209][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-18.57.10:277][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.28-18.57.10:284][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.28-18.57.10:312][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.28-18.57.10:313][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.28-18.57.10:313][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.28-18.57.10:315][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.28-18.57.10:315][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.28-18.57.10:316][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.28-18.57.10:316][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.28-18.57.10:316][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.28-18.57.10:316][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.28-18.57.10:316][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.28-18.57.10:316][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.28-18.57.10:316][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.28-18.57.10:316][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.28-18.57.10:318][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.28-18.57.10:318][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.28-18.57.10:318][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.28-18.57.10:331][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.28-18.57.10:911][  0]LogAudioMixer: Display: Using Audio Hardware Device Głośniki/Słuchawki (Realtek(R) Audio)
+[2022.08.28-18.57.10:918][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.28-18.57.10:921][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.28-18.57.10:922][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.28-18.57.10:924][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.28-18.57.10:924][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.28-18.57.10:926][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.28-18.57.10:926][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.28-18.57.10:926][  0]LogInit: FAudioDevice initialized.
+[2022.08.28-18.57.10:926][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.28-18.57.10:926][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.28-18.57.10:926][  0]LogInit: Texture streaming: Enabled
+[2022.08.28-18.57.10:975][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.28-18.57.10:988][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.28-18.57.11:030][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.28-18.57.11:048][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.28-18.57.11:048][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: PongEditor Win64 Development
+[2022.08.28-18.57.13:770][  0]LogLiveCoding: Display: First instance in process group "UE_Pong_0x345af23b", spawning console
+[2022.08.28-18.57.13:770][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.28-18.57.13:770][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.28-18.57.13:799][  0]LogInit: Transaction tracking system initialized
+[2022.08.28-18.57.13:956][  0]BlueprintLog: New page: Editor Load
+[2022.08.28-18.57.14:352][  0]LocalizationService: Localization service is disabled
+[2022.08.28-18.57.14:430][  0]TimingProfiler: Initialize
+[2022.08.28-18.57.14:430][  0]TimingProfiler: OnSessionChanged
+[2022.08.28-18.57.14:430][  0]LoadingProfiler: Initialize
+[2022.08.28-18.57.14:431][  0]LoadingProfiler: OnSessionChanged
+[2022.08.28-18.57.14:432][  0]NetworkingProfiler: Initialize
+[2022.08.28-18.57.14:434][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.28-18.57.14:434][  0]MemoryProfiler: Initialize
+[2022.08.28-18.57.14:434][  0]MemoryProfiler: OnSessionChanged
+[2022.08.28-18.57.15:460][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LiptonLeon/git/unreal-pong/Pong/Content/' took 0.01s
+[2022.08.28-18.57.15:460][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.28-18.57.15:575][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.28-18.57.15:587][  0]SourceControl: Source control is disabled
+[2022.08.28-18.57.15:588][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.488
+[2022.08.28-18.57.15:592][  0]Cmd: MAP LOAD FILE="../../../../../../Users/LiptonLeon/git/unreal-pong/Pong/Content/Level/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.28-18.57.15:592][  0]LightingResults: New page: Lighting Build
+[2022.08.28-18.57.15:607][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-18.57.15:610][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-18.57.15:612][  0]MapCheck: New page: Map Check
+[2022.08.28-18.57.15:612][  0]LightingResults: New page: Lighting Build
+[2022.08.28-18.57.15:636][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.28-18.57.15:647][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.28-18.57.15:914][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.08.28-18.57.15:914][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.28-18.57.15:914][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.28-18.57.15:915][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.08.28-18.57.15:931][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.28-18.57.15:944][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.28-18.57.15:945][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.28-18.57.15:946][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,334ms to complete.
+[2022.08.28-18.57.15:946][  0]LogFileHelpers: Loading map 'MainMenu' took 0.356
+[2022.08.28-18.57.15:990][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.890
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: ================================================
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.28-18.57.15:991][  0]LogShaderCompilers: Display: ================================================
+[2022.08.28-18.57.16:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-18.57.16:209][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-18.57.16:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-18.57.16:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.28-18.57.16:295][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:295][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:298][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:298][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:299][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:300][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:302][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:302][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:305][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:305][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:307][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:307][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:308][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:308][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:310][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:310][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:311][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:311][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:313][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.28-18.57.16:313][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.28-18.57.16:313][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.28-18.57.16:670][  0]LogSlate: Took 0.000999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.28-18.57.16:680][  0]LogSlate: Took 0.000697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.28-18.57.16:682][  0]LogSlate: Took 0.000780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.28-18.57.16:684][  0]LogSlate: Took 0.000871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.28-18.57.16:688][  0]LogSlate: Took 0.001721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.28-18.57.16:716][  0]LogViewport: Scene viewport resized to 1523x555, mode Windowed.
+[2022.08.28-18.57.17:349][  0]LogStall: Startup...
+[2022.08.28-18.57.17:350][  0]LogStall: Startup complete.
+[2022.08.28-18.57.17:371][  0]LogLoad: (Engine Initialization) Total time: 22.27 seconds
+[2022.08.28-18.57.17:371][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.28-18.57.17:425][  0]LogAssetRegistry: Asset discovery search completed in 14.2844 seconds
+[2022.08.28-18.57.17:437][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.08.28-18.57.17:464][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.28-18.57.18:432][  3]LogSlate: Took 0.000968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.28-18.57.41:396][333]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.28-18.57.41:411][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:417][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:423][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:432][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:437][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:442][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:448][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:452][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:469][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:475][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:488][333]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:785][333]LogStaticMesh: StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows should be resaved to improve async compilation performance.
+[2022.08.28-18.57.41:906][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall should be resaved to improve async compilation performance.
+[2022.08.28-18.57.42:135][333]LogTexture: Display: Building textures: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight (RGBA16F, 7372X3686 X1X1) (Required Memory Estimate: 518.287506 MB), EncodeSpeed: Fast
+[2022.08.28-18.57.42:135][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling should be resaved to improve async compilation performance.
+[2022.08.28-18.57.42:183][333]LogLinker: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.08.28-18.57.42:183][333]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Maps/StarterMap_BuiltData'
+[2022.08.28-18.57.43:711][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/MaterialSphere.MaterialSphere should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:712][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:719][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:719][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:734][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:734][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:735][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:753][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:760][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:760][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:761][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:761][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:761][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:790][333]LogLinker: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.08.28-18.57.43:790][333]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2022.08.28-18.57.43:796][333]LogLinker: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.08.28-18.57.43:796][333]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Maps/Advanced_Lighting_BuiltData'
+[2022.08.28-18.57.43:882][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:912][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Shelf.SM_Shelf should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:944][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Rock.SM_Rock should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:965][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:992][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door should be resaved to improve async compilation performance.
+[2022.08.28-18.57.43:999][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:039][333]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:045][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:052][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:058][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Wedge_A.Shape_Wedge_A should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:064][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:069][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_TriPyramid.Shape_TriPyramid should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:076][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Trim_90_Out.Shape_Trim_90_Out should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:081][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Trim_90_In.Shape_Trim_90_In should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:087][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Trim.Shape_Trim should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:094][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:100][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:109][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:116][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180 should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:122][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:128][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:136][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:141][333]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone should be resaved to improve async compilation performance.
+[2022.08.28-18.57.44:144][333]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/StarterMap.StarterMap, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2022.08.28-18.57.44:144][333]LogObjectTools: Currently 1 active worlds: /Game/Level/MainMenu.MainMenu
+[2022.08.28-18.57.44:154][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.28-18.58.02:698][333]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.28-18.58.02:743][333]LogUObjectGlobals: Force Deleting 267 Package(s):
+	Asset Name: /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+	Asset Type: StaticMesh
+	Asset Name: /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+	Asset Type: StaticMesh
+[2022.08.28-18.58.03:940][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Floor_400x400) ...
+[2022.08.28-18.58.05:769][333]LogMeshUtilities: Finished distance field build in 2.9s - 126x119x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 43% occupied, 1726 triangles, SM_Arrows
+[2022.08.28-18.58.05:769][333]LogStaticMesh: Display: Building static mesh Floor_400x400...
+[2022.08.28-18.58.05:769][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.08.28-18.58.05:860][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Pillar_50x500) ...
+[2022.08.28-18.58.09:882][333]LogMeshUtilities: Finished distance field build in 4.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, Skybox
+[2022.08.28-18.58.09:882][333]LogStaticMesh: Display: Building static mesh Pillar_50x500...
+[2022.08.28-18.58.09:882][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2022.08.28-18.58.09:900][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/SM_AssetPlatform) ...
+[2022.08.28-18.58.10:056][333]LogStaticMesh: Display: Building static mesh SM_AssetPlatform...
+[2022.08.28-18.58.10:056][333]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2022.08.28-18.58.10:075][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_400x200) ...
+[2022.08.28-18.58.10:241][333]LogStaticMesh: Display: Building static mesh Wall_400x200...
+[2022.08.28-18.58.10:241][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2022.08.28-18.58.10:259][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_400x300) ...
+[2022.08.28-18.58.10:469][333]LogStaticMesh: Display: Building static mesh Wall_400x300...
+[2022.08.28-18.58.10:469][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2022.08.28-18.58.10:488][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_400x400) ...
+[2022.08.28-18.58.10:842][333]LogStaticMesh: Display: Building static mesh Wall_400x400...
+[2022.08.28-18.58.10:842][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2022.08.28-18.58.10:860][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_500x500) ...
+[2022.08.28-18.58.11:018][333]LogStaticMesh: Display: Building static mesh Wall_500x500...
+[2022.08.28-18.58.11:018][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+[2022.08.28-18.58.11:036][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_Door_400x300) ...
+[2022.08.28-18.58.11:241][333]LogStaticMesh: Display: Building static mesh Wall_Door_400x300...
+[2022.08.28-18.58.11:241][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2022.08.28-18.58.11:258][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_Door_400x400) ...
+[2022.08.28-18.58.11:431][333]LogStaticMesh: Display: Building static mesh Wall_Door_400x400...
+[2022.08.28-18.58.11:431][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2022.08.28-18.58.11:449][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Architecture/Wall_Window_400x300) ...
+[2022.08.28-18.58.11:660][333]LogStaticMesh: Display: Building static mesh Wall_Window_400x300...
+[2022.08.28-18.58.11:660][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2022.08.28-18.58.11:716][333]LogStaticMesh: Display: Building static mesh Wall_Window_400x400...
+[2022.08.28-18.58.11:716][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400
+[2022.08.28-18.58.11:721][333]LogMaterial: Display: Missing cached shadermap for M_Lamp in PCD3D_SM5, Default, SM5 (DDC key hash: BAD06D4F4F17A2C1A95FFC6D15B152F6ABA9E384), compiling. 
+[2022.08.28-18.58.11:723][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.11:749][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Lamp_Wall) ...
+[2022.08.28-18.58.11:783][333]LogStaticMesh: Display: Building static mesh SM_Lamp_Wall...
+[2022.08.28-18.58.11:783][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2022.08.28-18.58.11:801][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Lamp_Wall) ...
+[2022.08.28-18.58.11:828][333]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 672C026FF7DF1DFE1D37EF198F758D9A922DF9F1), compiling. 
+[2022.08.28-18.58.11:830][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.08.28-18.58.11:839][333]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (2 / 2)
+[2022.08.28-18.58.11:853][333]LogMaterial: Display: Missing cached shadermap for M_Spark in PCD3D_SM5, Default, SM5 (DDC key hash: EBA2D5EE7BACABDEC3CA3A736CF61EF71BEEF5B4), compiling. 
+[2022.08.28-18.58.11:853][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Particles\Materials\M_Spark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.11:884][333]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/StarterContent/Particles/P_Sparks.P_Sparks)
+[2022.08.28-18.58.11:922][333]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 6D6CABC09A5A3D4B1737C035DF61ACE058795E5E), compiling. 
+[2022.08.28-18.58.11:923][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.08.28-18.58.11:933][333]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: E79EAB06DBBFA89815D8BE6B41E8A9378EDF84EE), compiling. 
+[2022.08.28-18.58.11:934][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Particles\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:042][333]LogMaterial: Display: Missing cached shadermap for M_Burst in PCD3D_SM5, Default, SM5 (DDC key hash: DC90912E1045C7DAD9DEE46D0C30228F31C7568E), compiling. 
+[2022.08.28-18.58.12:043][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:048][333]LogMaterial: Display: Missing cached shadermap for M_explosion_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 583796DEDF83659BBC8764CF6F5E604553AA9FD8), compiling. 
+[2022.08.28-18.58.12:049][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.08.28-18.58.12:140][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Lamp_Ceiling) ...
+[2022.08.28-18.58.12:175][333]LogStaticMesh: Display: Building static mesh SM_Lamp_Ceiling...
+[2022.08.28-18.58.12:175][333]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2022.08.28-18.58.12:194][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Lamp_Ceiling) ...
+[2022.08.28-18.58.12:273][333]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Beveled in PCD3D_SM5, Default, SM5 (DDC key hash: 4DA249B6A299032905AE0F1C74517E037A7ABB11), compiling. 
+[2022.08.28-18.58.12:273][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:302][333]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_New in PCD3D_SM5, Default, SM5 (DDC key hash: 935BBFE4FDBE81B26252D5548AD4AF7B6C9907BA), compiling. 
+[2022.08.28-18.58.12:302][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:336][333]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Old in PCD3D_SM5, Default, SM5 (DDC key hash: 565AFA6A53955D89F19C6EC967519CD9BC6B6861), compiling. 
+[2022.08.28-18.58.12:337][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:376][333]LogMaterial: Display: Missing cached shadermap for M_Brick_Cut_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: CAB7F380E437963A4744B23B11CEC25332A4B6E6), compiling. 
+[2022.08.28-18.58.12:376][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:385][333]LogMaterial: Display: Missing cached shadermap for M_Brick_Cut_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: CAB7F380E437963A4744B23B11CEC25332A4B6E6), compiling. 
+[2022.08.28-18.58.12:386][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:420][333]LogMaterial: Display: Missing cached shadermap for M_Brick_Hewn_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 0BD258D26F7D3ADEDBE5651B824A1FB50E3CBF91), compiling. 
+[2022.08.28-18.58.12:421][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:425][333]LogMaterial: Display: Missing cached shadermap for M_Brick_Hewn_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 0BD258D26F7D3ADEDBE5651B824A1FB50E3CBF91), compiling. 
+[2022.08.28-18.58.12:426][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:457][333]LogMaterial: Display: Missing cached shadermap for M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 90EBB0166DA8B83529DD60FDA98006F8D77DDDC3), compiling. 
+[2022.08.28-18.58.12:458][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Ceramic_Tile_Checker.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:481][333]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Pebble in PCD3D_SM5, Default, SM5 (DDC key hash: C2D5EE0A25347AC9D6C9CF1634187137FACC70B5), compiling. 
+[2022.08.28-18.58.12:482][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:658][333]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Rough in PCD3D_SM5, Default, SM5 (DDC key hash: 28571D78D76116C4D05C041B62C99E2CDE611D77), compiling. 
+[2022.08.28-18.58.12:660][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_CobbleStone_Rough.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:852][333]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 42A7B8A8C782E7E826CD5B81DAB316B2D26892BD), compiling. 
+[2022.08.28-18.58.12:854][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:859][333]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 42A7B8A8C782E7E826CD5B81DAB316B2D26892BD), compiling. 
+[2022.08.28-18.58.12:862][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:870][333]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 42A7B8A8C782E7E826CD5B81DAB316B2D26892BD), compiling. 
+[2022.08.28-18.58.12:873][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:916][333]LogMaterial: Display: Missing cached shadermap for M_Concrete_Grime in PCD3D_SM5, Default, SM5 (DDC key hash: 0AD96FC04D033EE830379F5F30A6E129CE2C5AA8), compiling. 
+[2022.08.28-18.58.12:917][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:922][333]LogMaterial: Display: Missing cached shadermap for M_Concrete_Grime in PCD3D_SM5, Default, SM5 (DDC key hash: 0AD96FC04D033EE830379F5F30A6E129CE2C5AA8), compiling. 
+[2022.08.28-18.58.12:923][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:971][333]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: B91D772F722BFCDBC08833D6AD1416B292B902AE), compiling. 
+[2022.08.28-18.58.12:973][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.12:978][333]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: B91D772F722BFCDBC08833D6AD1416B292B902AE), compiling. 
+[2022.08.28-18.58.12:978][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:018][333]LogMaterial: Display: Missing cached shadermap for M_Concrete_Poured in PCD3D_SM5, Default, SM5 (DDC key hash: 30D5839BE461A7BBE4FAECE7CA5E9E2FD728E8BD), compiling. 
+[2022.08.28-18.58.13:020][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:024][333]LogMaterial: Display: Missing cached shadermap for M_Concrete_Poured in PCD3D_SM5, Default, SM5 (DDC key hash: 30D5839BE461A7BBE4FAECE7CA5E9E2FD728E8BD), compiling. 
+[2022.08.28-18.58.13:025][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:068][333]LogMaterial: Display: Missing cached shadermap for M_Concrete_Tiles in PCD3D_SM5, Default, SM5 (DDC key hash: 660E569A284C8CC368F1F987D9B08A21A728DF1D), compiling. 
+[2022.08.28-18.58.13:069][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:110][333]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 25FA58958BFE188F53FAC0ABFC2291B0CD0DB0B8), compiling. 
+[2022.08.28-18.58.13:111][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:116][333]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 25FA58958BFE188F53FAC0ABFC2291B0CD0DB0B8), compiling. 
+[2022.08.28-18.58.13:116][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:157][333]LogMaterial: Display: Missing cached shadermap for M_Ground_Gravel in PCD3D_SM5, Default, SM5 (DDC key hash: 173AB913CE163E03A628ADF1C431FC70639184B0), compiling. 
+[2022.08.28-18.58.13:158][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:163][333]LogMaterial: Display: Missing cached shadermap for M_Ground_Gravel in PCD3D_SM5, Default, SM5 (DDC key hash: 173AB913CE163E03A628ADF1C431FC70639184B0), compiling. 
+[2022.08.28-18.58.13:163][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:206][333]LogMaterial: Display: Missing cached shadermap for M_Ground_Moss in PCD3D_SM5, Default, SM5 (DDC key hash: 921D4B38FC1DFFBEC20C19583AC6A6D23696DC7C), compiling. 
+[2022.08.28-18.58.13:206][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:211][333]LogMaterial: Display: Missing cached shadermap for M_Ground_Moss in PCD3D_SM5, Default, SM5 (DDC key hash: 921D4B38FC1DFFBEC20C19583AC6A6D23696DC7C), compiling. 
+[2022.08.28-18.58.13:212][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:236][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Brushed_Nickel in PCD3D_SM5, Default, SM5 (DDC key hash: A36C989B6F1E4216F82730FC9611B4DFFE73DBF6), compiling. 
+[2022.08.28-18.58.13:237][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Brushed_Nickel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:264][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 6C8D5FB25149E7A9F1F332651B7C35AA81802C68), compiling. 
+[2022.08.28-18.58.13:265][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:284][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Chrome in PCD3D_SM5, Default, SM5 (DDC key hash: C2D7A0BD86FEE20395D5EC00DBC0C2FCD1403F4B), compiling. 
+[2022.08.28-18.58.13:285][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Chrome.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:315][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Copper in PCD3D_SM5, Default, SM5 (DDC key hash: 37F823502B202F6043FCEC9220653BA9942129F1), compiling. 
+[2022.08.28-18.58.13:315][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:324][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Copper in PCD3D_SM5, Default, SM5 (DDC key hash: 37F823502B202F6043FCEC9220653BA9942129F1), compiling. 
+[2022.08.28-18.58.13:325][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:355][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 37FD4A69C5083EA218C33640FF13C153BE791036), compiling. 
+[2022.08.28-18.58.13:356][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:362][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 37FD4A69C5083EA218C33640FF13C153BE791036), compiling. 
+[2022.08.28-18.58.13:363][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:387][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Rust in PCD3D_SM5, Default, SM5 (DDC key hash: 37DF1B9B40AEEFFAC0E63AFD73FB93A1C13BF4E7), compiling. 
+[2022.08.28-18.58.13:387][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:394][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Rust in PCD3D_SM5, Default, SM5 (DDC key hash: 37DF1B9B40AEEFFAC0E63AFD73FB93A1C13BF4E7), compiling. 
+[2022.08.28-18.58.13:395][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:425][333]LogMaterial: Display: Missing cached shadermap for M_Metal_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 58A77F0365D84775668F7214CD04DE1CAB0C8409), compiling. 
+[2022.08.28-18.58.13:425][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:472][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 42206981303DFD79BCB32C45310BE7C8D02A0223), compiling. 
+[2022.08.28-18.58.13:473][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:478][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 42206981303DFD79BCB32C45310BE7C8D02A0223), compiling. 
+[2022.08.28-18.58.13:479][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:523][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 21B469518B5D0F3CFD7B60366A67E6EC6DB97CF1), compiling. 
+[2022.08.28-18.58.13:524][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:529][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 21B469518B5D0F3CFD7B60366A67E6EC6DB97CF1), compiling. 
+[2022.08.28-18.58.13:530][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:535][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 21B469518B5D0F3CFD7B60366A67E6EC6DB97CF1), compiling. 
+[2022.08.28-18.58.13:536][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:589][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 8F401CF6DC946DFB21256B67B2C3E0D9E9F6B7E9), compiling. 
+[2022.08.28-18.58.13:590][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:598][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 8F401CF6DC946DFB21256B67B2C3E0D9E9F6B7E9), compiling. 
+[2022.08.28-18.58.13:599][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:653][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Slate in PCD3D_SM5, Default, SM5 (DDC key hash: 0938BDE4B1E7D39D283DCB026ABCE88B2D42CCFC), compiling. 
+[2022.08.28-18.58.13:654][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:659][333]LogMaterial: Display: Missing cached shadermap for M_Rock_Slate in PCD3D_SM5, Default, SM5 (DDC key hash: 0938BDE4B1E7D39D283DCB026ABCE88B2D42CCFC), compiling. 
+[2022.08.28-18.58.13:660][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:691][333]LogMaterial: Display: Missing cached shadermap for M_Tech_Checker_Dot in PCD3D_SM5, Default, SM5 (DDC key hash: 667C61C989EA10AD3B76C4896D5A305ADDB4EB0B), compiling. 
+[2022.08.28-18.58.13:692][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:711][333]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile in PCD3D_SM5, Default, SM5 (DDC key hash: 327426252E405B3E2189D2E50D193FD9D1E9D4EF), compiling. 
+[2022.08.28-18.58.13:712][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Tech_Hex_Tile.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:736][333]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 3886061ABB18ADCF128C594943D0A4F1A2BDDFDC), compiling. 
+[2022.08.28-18.58.13:737][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:745][333]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 3886061ABB18ADCF128C594943D0A4F1A2BDDFDC), compiling. 
+[2022.08.28-18.58.13:746][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:752][333]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 3886061ABB18ADCF128C594943D0A4F1A2BDDFDC), compiling. 
+[2022.08.28-18.58.13:753][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:787][333]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 53C013D84FFE6E32F7AECE772C7DEB237E154B1C), compiling. 
+[2022.08.28-18.58.13:788][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:793][333]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 53C013D84FFE6E32F7AECE772C7DEB237E154B1C), compiling. 
+[2022.08.28-18.58.13:794][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:838][333]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: 38ADC52C0E3ADEA3F08AA4FEFF39EDCBC7DA960E), compiling. 
+[2022.08.28-18.58.13:839][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:844][333]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: 38ADC52C0E3ADEA3F08AA4FEFF39EDCBC7DA960E), compiling. 
+[2022.08.28-18.58.13:844][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:889][333]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: ED70E9B914595CACD310BF256D9AB95A7200E5CC), compiling. 
+[2022.08.28-18.58.13:890][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:895][333]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: ED70E9B914595CACD310BF256D9AB95A7200E5CC), compiling. 
+[2022.08.28-18.58.13:896][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.13:927][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: D1B3BA9D9CD7D12ED5381E813828F82E1571051D), compiling. 
+[2022.08.28-18.58.13:927][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.08.28-18.58.13:952][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 4D698FC573FA800E32E82220389FDE61FA541F8B), compiling. 
+[2022.08.28-18.58.13:953][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.08.28-18.58.13:958][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 4D698FC573FA800E32E82220389FDE61FA541F8B), compiling. 
+[2022.08.28-18.58.13:958][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.08.28-18.58.13:963][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 4D698FC573FA800E32E82220389FDE61FA541F8B), compiling. 
+[2022.08.28-18.58.13:964][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.08.28-18.58.13:969][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 4D698FC573FA800E32E82220389FDE61FA541F8B), compiling. 
+[2022.08.28-18.58.13:969][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2022.08.28-18.58.13:995][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Oak in PCD3D_SM5, Default, SM5 (DDC key hash: DF6B83F0E91DF51DA1069381921EFF4D97CD91E4), compiling. 
+[2022.08.28-18.58.13:996][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:036][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: 32F57E135265B32BF6D8F2BE9C7AE83E110C763A), compiling. 
+[2022.08.28-18.58.14:037][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:045][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: 32F57E135265B32BF6D8F2BE9C7AE83E110C763A), compiling. 
+[2022.08.28-18.58.14:046][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:073][333]LogMaterial: Display: Missing cached shadermap for M_Wood_Walnut in PCD3D_SM5, Default, SM5 (DDC key hash: E00D2FDD55E1EF4F03C8717765D28F4BB456705B), compiling. 
+[2022.08.28-18.58.14:074][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Materials\M_Wood_Walnut.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:089][333]LogMaterial: Display: Missing cached shadermap for M_Chair in PCD3D_SM5, Default, SM5 (DDC key hash: 8205818C6213F9F872C4494EC9CA8B4C21E6B126), compiling. 
+[2022.08.28-18.58.14:090][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Chair.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:099][333]LogMaterial: Display: Missing cached shadermap for M_Dust_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 7A4AD517AA1FC24592CF7D06C0A58DF21586A838), compiling. 
+[2022.08.28-18.58.14:099][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Particles\Materials\M_Dust_Particle.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.08.28-18.58.14:142][333]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_0 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.08.28-18.58.14:143][333]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_1 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.08.28-18.58.14:144][333]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_2 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.08.28-18.58.14:144][333]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_3 (/Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.08.28-18.58.14:169][333]LogMaterial: Display: Missing cached shadermap for M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: 03C3C647923AC13803A4995CF9E051186573B593), compiling. 
+[2022.08.28-18.58.14:170][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Frame.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:206][333]LogMaterial: Display: Missing cached shadermap for M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: A6103A1F6D51A617F9B50FAF23EAB2EDB22CFF9E), compiling. 
+[2022.08.28-18.58.14:207][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:226][333]LogMaterial: Display: Missing cached shadermap for M_StatueGlass in PCD3D_SM5, Default, SM5 (DDC key hash: 450879D0928FE2DD15841CA2004E113E080C120A), compiling. 
+[2022.08.28-18.58.14:227][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:238][333]LogMaterial: Display: Missing cached shadermap for M_StatueGlass in PCD3D_SM5, Default, SM5 (DDC key hash: 450879D0928FE2DD15841CA2004E113E080C120A), compiling. 
+[2022.08.28-18.58.14:239][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_StatueGlass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:255][333]LogMaterial: Display: Missing cached shadermap for M_TableRound in PCD3D_SM5, Default, SM5 (DDC key hash: C16BBBCB0ADCC7069642CD88EAB64C3920102683), compiling. 
+[2022.08.28-18.58.14:256][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_TableRound.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.14:309][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Chair) ...
+[2022.08.28-18.58.14:793][333]LogStaticMesh: Display: Building static mesh SM_Chair...
+[2022.08.28-18.58.14:793][333]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2022.08.28-18.58.14:811][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Chair) ...
+[2022.08.28-18.58.14:847][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_DoorFrame) ...
+[2022.08.28-18.58.14:911][333]LogStaticMesh: Display: Building static mesh SM_DoorFrame...
+[2022.08.28-18.58.14:911][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2022.08.28-18.58.14:928][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_DoorFrame) ...
+[2022.08.28-18.58.15:173][333]LogStaticMesh: Display: Building static mesh SM_GlassWindow...
+[2022.08.28-18.58.15:173][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_GlassWindow) ...
+[2022.08.28-18.58.15:176][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow
+[2022.08.28-18.58.15:194][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_GlassWindow) ...
+[2022.08.28-18.58.15:336][333]LogStaticMesh: Display: Building static mesh SM_PillarFrame...
+[2022.08.28-18.58.15:336][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame
+[2022.08.28-18.58.15:372][333]LogStaticMesh: Display: Building static mesh SM_PillarFrame300...
+[2022.08.28-18.58.15:372][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_PillarFrame300) ...
+[2022.08.28-18.58.15:374][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2022.08.28-18.58.15:438][333]LogStaticMesh: Display: Building static mesh SM_CornerFrame...
+[2022.08.28-18.58.15:438][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2022.08.28-18.58.15:473][333]LogStaticMesh: Display: Building static mesh Shape_QuadPyramid...
+[2022.08.28-18.58.15:473][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid
+[2022.08.28-18.58.15:490][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_QuadPyramid) ...
+[2022.08.28-18.58.15:512][333]LogStaticMesh: Display: Building static mesh Shape_Sphere...
+[2022.08.28-18.58.15:512][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Sphere) ...
+[2022.08.28-18.58.15:515][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2022.08.28-18.58.15:533][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Sphere) ...
+[2022.08.28-18.58.15:561][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Cube) ...
+[2022.08.28-18.58.15:593][333]LogStaticMesh: Display: Building static mesh Shape_Cube...
+[2022.08.28-18.58.15:593][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2022.08.28-18.58.15:611][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Cube) ...
+[2022.08.28-18.58.15:719][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_WindowFrame) ...
+[2022.08.28-18.58.15:872][333]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2022.08.28-18.58.15:872][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame
+[2022.08.28-18.58.15:890][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_WindowFrame) ...
+[2022.08.28-18.58.15:927][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Statue) ...
+[2022.08.28-18.58.16:047][333]LogStaticMesh: Display: Building static mesh SM_Statue...
+[2022.08.28-18.58.16:047][333]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2022.08.28-18.58.16:065][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Statue) ...
+[2022.08.28-18.58.16:191][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Statue) ...
+[2022.08.28-18.58.16:385][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Statue) ...
+[2022.08.28-18.58.16:629][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_TableRound) ...
+[2022.08.28-18.58.17:027][333]LogStaticMesh: Display: Building static mesh SM_TableRound...
+[2022.08.28-18.58.17:027][333]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2022.08.28-18.58.17:045][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_TableRound) ...
+[2022.08.28-18.58.17:344][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Stairs) ...
+[2022.08.28-18.58.17:425][333]LogStaticMesh: Display: Building static mesh SM_Stairs...
+[2022.08.28-18.58.17:425][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2022.08.28-18.58.17:443][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Stairs) ...
+[2022.08.28-18.58.17:632][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Stairs) ...
+[2022.08.28-18.58.17:871][333]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: C57672D5D1B4D6C34627D3CB8D84BBCEC5FCCD83), compiling. 
+[2022.08.28-18.58.17:872][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Shelf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.17:892][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Shelf) ...
+[2022.08.28-18.58.17:910][333]LogStaticMesh: Display: Building static mesh SM_Shelf...
+[2022.08.28-18.58.17:910][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2022.08.28-18.58.17:928][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Shelf) ...
+[2022.08.28-18.58.17:956][333]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 81624C49C3B45BB828539BBD4117C5A8C7929223), compiling. 
+[2022.08.28-18.58.17:957][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.17:964][333]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 81624C49C3B45BB828539BBD4117C5A8C7929223), compiling. 
+[2022.08.28-18.58.17:965][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.17:986][333]LogStaticMesh: Display: Building static mesh SM_Rock...
+[2022.08.28-18.58.17:986][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Rock) ...
+[2022.08.28-18.58.17:989][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2022.08.28-18.58.18:007][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Rock) ...
+[2022.08.28-18.58.18:063][333]LogStaticMesh: Display: Building static mesh SM_MatPreviewMesh_02...
+[2022.08.28-18.58.18:063][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_MatPreviewMesh_02) ...
+[2022.08.28-18.58.18:139][333]LogStaticMesh: Built static mesh [0.07s] /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02
+[2022.08.28-18.58.18:159][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_MatPreviewMesh_02) ...
+[2022.08.28-18.58.18:192][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_MatPreviewMesh_02) ...
+[2022.08.28-18.58.18:241][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_MatPreviewMesh_02) ...
+[2022.08.28-18.58.18:331][333]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM5, Default, SM5 (DDC key hash: D60C0E109184354E2F7CB13580154EB3BCAFA541), compiling. 
+[2022.08.28-18.58.18:332][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.18:355][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Door) ...
+[2022.08.28-18.58.18:385][333]LogStaticMesh: Display: Building static mesh SM_Door...
+[2022.08.28-18.58.18:385][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2022.08.28-18.58.18:403][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Door) ...
+[2022.08.28-18.58.18:426][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Door) ...
+[2022.08.28-18.58.18:448][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Door) ...
+[2022.08.28-18.58.18:528][333]LogStaticMesh: Display: Building static mesh SM_Couch...
+[2022.08.28-18.58.18:528][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Couch) ...
+[2022.08.28-18.58.18:540][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Couch.SM_Couch
+[2022.08.28-18.58.18:575][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Couch) ...
+[2022.08.28-18.58.19:118][333]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: EC978DC2CEDF2934D2D3A886EE1CDF3CED850A7A), compiling. 
+[2022.08.28-18.58.19:118][333]LogMaterial: Warning: [AssetLog] C:\Users\LiptonLeon\git\unreal-pong\Pong\Content\StarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.08.28-18.58.19:140][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Bush) ...
+[2022.08.28-18.58.20:003][333]LogStaticMesh: Display: Building static mesh SM_Bush...
+[2022.08.28-18.58.20:004][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2022.08.28-18.58.20:022][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_Bush) ...
+[2022.08.28-18.58.20:062][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_WideCapsule) ...
+[2022.08.28-18.58.20:122][333]LogStaticMesh: Display: Building static mesh Shape_WideCapsule...
+[2022.08.28-18.58.20:122][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule
+[2022.08.28-18.58.20:141][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_WideCapsule) ...
+[2022.08.28-18.58.20:249][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Wedge_B) ...
+[2022.08.28-18.58.20:350][333]LogStaticMesh: Display: Building static mesh Shape_Wedge_B...
+[2022.08.28-18.58.20:350][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B
+[2022.08.28-18.58.20:373][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Wedge_A) ...
+[2022.08.28-18.58.20:444][333]LogStaticMesh: Display: Building static mesh Shape_Wedge_A...
+[2022.08.28-18.58.20:444][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Wedge_A.Shape_Wedge_A
+[2022.08.28-18.58.20:468][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Tube) ...
+[2022.08.28-18.58.20:570][333]LogStaticMesh: Display: Building static mesh Shape_Tube...
+[2022.08.28-18.58.20:570][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube
+[2022.08.28-18.58.20:594][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_TriPyramid) ...
+[2022.08.28-18.58.20:651][333]LogStaticMesh: Display: Building static mesh Shape_TriPyramid...
+[2022.08.28-18.58.20:651][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_TriPyramid.Shape_TriPyramid
+[2022.08.28-18.58.20:705][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Trim_90_Out) ...
+[2022.08.28-18.58.20:731][333]LogStaticMesh: Display: Building static mesh Shape_Trim_90_Out...
+[2022.08.28-18.58.20:731][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Trim_90_Out.Shape_Trim_90_Out
+[2022.08.28-18.58.20:767][333]LogStaticMesh: Display: Building static mesh Shape_Trim_90_In...
+[2022.08.28-18.58.20:768][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim_90_In.Shape_Trim_90_In
+[2022.08.28-18.58.20:804][333]LogStaticMesh: Display: Building static mesh Shape_Trim...
+[2022.08.28-18.58.20:804][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim.Shape_Trim
+[2022.08.28-18.58.20:829][333]LogStaticMesh: Display: Building static mesh Shape_Torus...
+[2022.08.28-18.58.20:829][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Torus) ...
+[2022.08.28-18.58.20:868][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2022.08.28-18.58.20:894][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Plane) ...
+[2022.08.28-18.58.20:926][333]LogStaticMesh: Display: Building static mesh Shape_Plane...
+[2022.08.28-18.58.20:926][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2022.08.28-18.58.20:949][333]LogStaticMesh: Display: Building static mesh Shape_Pipe_90...
+[2022.08.28-18.58.20:949][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90
+[2022.08.28-18.58.20:949][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Pipe_90) ...
+[2022.08.28-18.58.20:994][333]LogStaticMesh: Display: Building static mesh Shape_Pipe_180...
+[2022.08.28-18.58.20:994][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Pipe_180) ...
+[2022.08.28-18.58.21:025][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180
+[2022.08.28-18.58.21:056][333]LogStaticMesh: Display: Building static mesh Shape_Pipe...
+[2022.08.28-18.58.21:056][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Pipe) ...
+[2022.08.28-18.58.21:072][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.08.28-18.58.21:096][333]LogStaticMesh: Display: Building static mesh Shape_NarrowCapsule...
+[2022.08.28-18.58.21:096][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule
+[2022.08.28-18.58.21:096][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_NarrowCapsule) ...
+[2022.08.28-18.58.21:138][333]LogStaticMesh: Display: Building static mesh Shape_Cylinder...
+[2022.08.28-18.58.21:138][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Cylinder) ...
+[2022.08.28-18.58.21:200][333]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2022.08.28-18.58.21:224][333]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_Cone) ...
+[2022.08.28-18.58.21:322][333]LogStaticMesh: Display: Building static mesh Shape_Cone...
+[2022.08.28-18.58.21:322][333]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2022.08.28-18.58.21:339][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.08.28-18.58.29:476][333]LogSlate: Window 'Message' being destroyed
+[2022.08.28-18.58.29:481][333]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.08.28-18.58.29:481][333]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Wind06, this package is now potentially corrupt
+[2022.08.28-18.58.30:735][333]LogSlate: Window 'Message' being destroyed
+[2022.08.28-18.58.30:740][333]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.08.28-18.58.30:740][333]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Wind05, this package is now potentially corrupt
+[2022.08.28-18.58.31:397][333]LogSlate: Window 'Message' being destroyed
+[2022.08.28-18.58.31:401][333]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.08.28-18.58.31:401][333]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Birds01, this package is now potentially corrupt
+[2022.08.28-18.58.31:715][333]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-18.58.31:715][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-18.58.31:809][333]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.08.28-18.58.31:809][333]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-18.58.31:809][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-18.58.31:853][333]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-18.58.31:854][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-18.58.49:551][333]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.08.28-18.58.49:551][333]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-18.58.49:551][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-18.58.49:552][333]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.08.28-18.58.49:552][333]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-18.58.49:552][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-18.58.49:553][333]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.08.28-18.58.49:553][333]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2022.08.28-18.58.49:553][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.28-18.58.51:345][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.08.28-18.58.51:364][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.08.28-18.58.51:374][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.08.28-18.58.51:484][333]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.08.28-18.58.53:376][333]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.892 s
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: === Handled ensure: ===
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: 
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: Ensure condition failed: false [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 3326]
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: 
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: 					from the file system manually: 
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: /Game/StarterContent/Audio/Starter_Wind06
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: /Game/StarterContent/Audio/Starter_Wind05
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: /Game/StarterContent/Audio/Starter_Birds01
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: Stack: 
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: [Callstack] 0x00007ffebd882a55 UnrealEditor-UnrealEd.dll!ObjectTools::ForceDeleteObjects() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp:3320]
+[2022.08.28-18.58.53:376][333]LogOutputDevice: Error: [Callstack] 0x00007ffebce959a9 UnrealEditor-UnrealEd.dll!FAssetDeleteModel::DoForceDelete() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\AssetDeleteModel.cpp:321]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebd1ce68f UnrealEditor-UnrealEd.dll!SDeleteAssetsDialog::ForceDelete() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Dialogs\SDeleteAssetsDialog.cpp:714]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebd1c4184 UnrealEditor-UnrealEd.dll!TBaseSPMethodDelegateInstance<0,SDeleteAssetsDialog,1,FReply __cdecl(void),FDefaultDelegateUserPolicy>::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf66ba3b UnrealEditor-Slate.dll!SButton::ExecuteOnClick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:464]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf692df6 UnrealEditor-Slate.dll!SButton::OnMouseButtonUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:389]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf434034 UnrealEditor-Slate.dll!<lambda_51e270ca99ea7ce852539efd04dd453f>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4959]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf416fc6 UnrealEditor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_51e270ca99ea7ce852539efd04dd453f> >() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:405]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf4902ee UnrealEditor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4945]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf4791b1 UnrealEditor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5493]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf46d5dc UnrealEditor-Slate.dll!FSlateApplication::OnMouseUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5458]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedefa92e UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2210]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedee9247 UnrealEditor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2699]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedefce51 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1078]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedee49a7 UnrealEditor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:916]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007fff1049e858 USER32.dll!UnknownFunction []
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007fff1049e299 USER32.dll!UnknownFunction []
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedefe009 UnrealEditor-ApplicationCore.dll!FWindowsApplication::PumpMessages() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2711]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf49b3c3 UnrealEditor-Slate.dll!FSlateApplication::TickPlatform() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1520]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf43b49d UnrealEditor-Slate.dll!FSlateApplication::AddModalWindow() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:2048]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebd2c0bbf UnrealEditor-UnrealEd.dll!UEditorEngine::EditorAddModalWindow() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:3964]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebd875b00 UnrealEditor-UnrealEd.dll!ObjectTools::DeleteObjects() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp:2619]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeae9f4f3f UnrealEditor-AssetTools.dll!AssetViewUtils::DeleteFolders() [D:\build\++UE5\Sync\Engine\Source\Developer\AssetTools\Private\AssetViewUtils.cpp:382]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffe9096d5a9 UnrealEditor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::DeleteAssetFolderItems() [D:\build\++UE5\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:622]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffe9096d7be UnrealEditor-ContentBrowserAssetDataSource.dll!ContentBrowserAssetData::DeleteItems() [D:\build\++UE5\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataCore.cpp:602]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffe9095986d UnrealEditor-ContentBrowserAssetDataSource.dll!UContentBrowserAssetDataSource::BulkDeleteItems() [D:\build\++UE5\Sync\Engine\Plugins\Editor\ContentBrowser\ContentBrowserAssetDataSource\Source\ContentBrowserAssetDataSource\Private\ContentBrowserAssetDataSource.cpp:1324]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeaf41baf9 UnrealEditor-ContentBrowser.dll!FAssetContextMenu::ExecuteDeleteFolderConfirmed() [D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\AssetContextMenu.cpp:827]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeaf41535f UnrealEditor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,FAssetContextMenu,1,FReply __cdecl(void),FDefaultDelegateUserPolicy>::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeaf4713f0 UnrealEditor-ContentBrowser.dll!SContentBrowserConfirmPopup::YesClicked() [D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\ContentBrowserUtils.cpp:258]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeaf418bb4 UnrealEditor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SContentBrowserConfirmPopup,1,FReply __cdecl(void),FDefaultDelegateUserPolicy>::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf66ba3b UnrealEditor-Slate.dll!SButton::ExecuteOnClick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:464]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf692df6 UnrealEditor-Slate.dll!SButton::OnMouseButtonUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:389]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf434034 UnrealEditor-Slate.dll!<lambda_51e270ca99ea7ce852539efd04dd453f>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4959]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf416fc6 UnrealEditor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_51e270ca99ea7ce852539efd04dd453f> >() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:405]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf4902ee UnrealEditor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4945]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf4791b1 UnrealEditor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5493]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffebf46d5dc UnrealEditor-Slate.dll!FSlateApplication::OnMouseUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5458]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedefa92e UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2210]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedee9247 UnrealEditor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2699]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedefce51 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1078]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedee49a7 UnrealEditor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:916]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007fff1049e858 USER32.dll!UnknownFunction []
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007fff1049e299 USER32.dll!UnknownFunction []
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ffeedefe148 UnrealEditor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:138]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ff695217114 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5139]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ff695230d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ff695230e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ff695233c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ff695245564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007ff695248736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007fff10097034 KERNEL32.DLL!UnknownFunction []
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: [Callstack] 0x00007fff106c26a1 ntdll.dll!UnknownFunction []
+[2022.08.28-18.58.53:377][333]LogOutputDevice: Error: 
